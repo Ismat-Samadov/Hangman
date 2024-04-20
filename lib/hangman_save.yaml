@@ -1,13 +1,16 @@
 ---
-:secret_word: learn
+:secret_word: calculator
 :correct_guesses:
-- l
-- e
-- a
 - _
-- "n"
+- _
+- l
+- _
+- _
+- l
+- _
+- _
+- _
+- _
 :incorrect_guesses:
-- t
-- m
-- s
-:remaining_guesses: 3
+- g
+:remaining_guesses: 5
