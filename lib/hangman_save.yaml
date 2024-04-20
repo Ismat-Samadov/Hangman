@@ -1,0 +1,13 @@
+---
+:secret_word: learn
+:correct_guesses:
+- l
+- e
+- a
+- _
+- "n"
+:incorrect_guesses:
+- t
+- m
+- s
+:remaining_guesses: 3
