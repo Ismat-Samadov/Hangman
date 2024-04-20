@@ -11,7 +11,6 @@ Welcome to the Hangman Game repository! This project implements a command-line H
 - [Save and Load Game](#save-and-load-game)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
